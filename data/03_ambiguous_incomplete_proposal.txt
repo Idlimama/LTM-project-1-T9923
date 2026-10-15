@@ -1,0 +1,22 @@
+SYNTHETIC REVIEW DATA — NOT A REAL COMPANY TRANSCRIPT
+Campaign: Project Spark Awareness Idea
+
+00:00:07 - Meeting Chair: We need an initial assessment of the Project Spark awareness idea.
+00:00:24 - Marketing Lead: The idea is to make Project Spark visible to more customers before the next quarter.
+00:00:44 - Sales Lead: We should use every major digital channel and make the campaign feel premium.
+00:01:05 - Channel Lead: We have not selected the primary channels. Social media, email, search, influencers, webinars, and partner newsletters were all mentioned.
+00:01:32 - Product Lead: The product is still being defined. It may be a service package, a customer community, or a set of advisory workshops.
+00:01:59 - Marketing Lead: The audience is everyone who might benefit from transformation.
+00:02:14 - Analyst: That audience description is too broad for channel or message evaluation.
+00:02:34 - Creative Lead: The working message is: Transform everything with Spark.
+00:02:50 - Policy Reviewer: The phrase does not state a specific benefit, limitation, or expected customer action.
+00:03:07 - Finance Lead: A budget has not been authorized.
+00:03:18 - Marketing Lead: We could start with INR 500000, but that is an informal estimate and not an approved amount.
+00:03:38 - Analyst: No revenue assumption, acquisition target, response benchmark, or success threshold has been defined.
+00:04:02 - Operations Lead: There is no landing page, registration flow, content calendar, assigned campaign owner, or support plan.
+00:04:23 - Sales Lead: We want the campaign to be live quickly.
+00:04:35 - Meeting Chair: Quickly is not an operational date. We need a release date and responsible owner.
+00:04:50 - Security Reviewer: We do not know whether the campaign will use existing customer records, purchased lists, event contacts, or public targeting.
+00:05:11 - Policy Reviewer: Policy jurisdiction and disclosure requirements cannot be selected until region, audience, channels, and offer are defined.
+00:05:38 - Marketing Lead: The council should tell us the minimum information required before detailed evaluation.
+00:05:55 - Meeting Chair: The expected result is insufficient information with a structured clarification request, not an invented campaign plan.

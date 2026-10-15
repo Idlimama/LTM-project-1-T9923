@@ -1,0 +1,38 @@
+[
+  {
+    "file": "01_nova_overbudget_unsupported_claim.txt",
+    "synthetic": true,
+    "characters": 2878,
+    "lines": 22
+  },
+  {
+    "file": "02_greenfield_well_formed_campaign.txt",
+    "synthetic": true,
+    "characters": 2856,
+    "lines": 22
+  },
+  {
+    "file": "03_ambiguous_incomplete_proposal.txt",
+    "synthetic": true,
+    "characters": 2267,
+    "lines": 22
+  },
+  {
+    "file": "04_cross_border_policy_risk.txt",
+    "synthetic": true,
+    "characters": 2820,
+    "lines": 23
+  },
+  {
+    "file": "05_conflicting_financial_assumptions.txt",
+    "synthetic": true,
+    "characters": 2901,
+    "lines": 22
+  },
+  {
+    "file": "06_long_mixed_quality_transcript.txt",
+    "synthetic": true,
+    "characters": 5765,
+    "lines": 39
+  }
+]

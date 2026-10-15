@@ -1,0 +1,23 @@
+SYNTHETIC REVIEW DATA — NOT A REAL COMPANY TRANSCRIPT
+Campaign: PulseWell International Trial Campaign
+
+00:00:05 - Meeting Chair: This meeting reviews the international trial campaign for PulseWell, a workplace-wellness application.
+00:00:30 - Product Lead: PulseWell provides voluntary activity challenges, wellness articles, team participation summaries, and personal reminders.
+00:00:59 - Marketing Lead: The campaign objective is to generate 800 trial registrations in India, Germany, France, and the United Kingdom within eight weeks.
+00:01:24 - Audience Lead: The intended audience is HR and workplace-experience teams at organizations with more than 500 employees.
+00:01:51 - Channel Lead: The plan uses LinkedIn, email, partner webinars, and search advertisements.
+00:02:12 - Creative Lead: The headline states: PulseWell makes every workforce healthier and cuts absence by 30 percent.
+00:02:28 - Analyst: We have no clinical study or controlled absence-reduction analysis supporting that statement.
+00:02:48 - Product Lead: The platform is not a medical device and must not provide medical advice.
+00:03:07 - Policy Reviewer: The campaign must avoid presenting the application as diagnosing, treating, or guaranteeing health outcomes.
+00:03:31 - Privacy Reviewer: The draft registration form asks for full name, work email, employer, country, team size, health goals, age band, and disability status.
+00:03:52 - Security Reviewer: Age band and disability status are not required to provide the trial. These fields should not be collected for marketing qualification.
+00:04:19 - Audience Lead: Targeting should use organization information and role context. It must not use inferred health conditions or protected characteristics.
+00:04:44 - Finance Lead: The authorized budget is INR 900000.
+00:04:53 - Finance Lead: The proposed spend is INR 860000, including regional creative adaptation, paid search, webinars, translation review, and contingency.
+00:05:22 - Operations Lead: English campaign assets are ready. German and French translations have not completed specialist review.
+00:05:47 - Policy Reviewer: Country-specific disclosure, privacy notice, consent, and translation review remain open.
+00:06:10 - Analyst: Success metrics are qualified organization registrations, trial activation, webinar attendance, cost per qualified registration, and consented follow-up rate.
+00:06:38 - Marketing Lead: We can revise the headline to focus on voluntary participation and program administration instead of health outcomes.
+00:07:02 - Meeting Chair: The Audit role must preserve the unsupported health claim and missing jurisdiction review as hard concerns. Growth potential cannot override them.
+00:07:27 - Meeting Chair: Human privacy and policy specialists must review the revised campaign before release.

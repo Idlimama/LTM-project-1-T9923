@@ -1,0 +1,22 @@
+SYNTHETIC REVIEW DATA — NOT A REAL COMPANY TRANSCRIPT
+Campaign: Nova Commerce Launch
+
+00:00:05 - Meeting Chair: The purpose of this meeting is to review the six-week launch plan for Nova Commerce, a subscription product for small retail businesses.
+00:00:29 - Product Lead: Nova Commerce combines order tracking, customer messaging, basic inventory alerts, and promotion templates in one dashboard.
+00:00:58 - Marketing Lead: The primary objective is to acquire 1,500 qualified trial users during the six-week launch period.
+00:01:24 - Channel Lead: The primary target audience is independent retail owners with one to five physical stores and limited internal marketing support.
+00:01:51 - Channel Lead: The proposed channel mix is Instagram, LinkedIn, email, and two live webinars. Instagram will demonstrate short workflows. LinkedIn will carry owner-focused case content. Email will target existing newsletter subscribers.
+00:02:31 - Creative Lead: The working headline is: Nova Commerce guarantees 50 percent growth in online orders within six weeks.
+00:02:45 - Analyst: We do not have evidence that can substantiate a guaranteed 50 percent increase. We have early pilot observations from twelve synthetic test accounts, but no controlled study.
+00:03:16 - Marketing Lead: The intention was to create a strong headline. We can replace guarantee with a measurable objective if required.
+00:03:38 - Finance Lead: The authorized campaign budget is INR 100000.
+00:03:46 - Finance Lead: The proposed spend is INR 120000. Paid social is INR 55000, content production is INR 25000, webinars are INR 15000, email tooling is INR 5000, and contingency is INR 20000.
+00:04:13 - Finance Lead: The current proposal exceeds the authorized budget by INR 20000.
+00:04:27 - Marketing Lead: We have not received an approved budget exception.
+00:04:39 - Sales Lead: The offer is a 14-day free trial with onboarding support and no payment information required during registration.
+00:05:08 - Analyst: Success metrics are qualified leads, trial registrations, activation rate, trial-to-paid conversion, acquisition cost, webinar attendance, and unsubscribe rate.
+00:05:41 - Operations Lead: The landing page and registration flow are ready. Webinar speakers are not confirmed. Customer-support coverage is available during business hours only.
+00:06:02 - Policy Reviewer: The campaign must not imply guaranteed commercial outcomes without appropriate evidence. Any trial limitations must be shown clearly.
+00:06:29 - Marketing Lead: We can change the headline to: Nova Commerce is designed to help small retailers improve online-order operations.
+00:06:48 - Meeting Chair: The council should assess growth logic, policy risk, financial viability, audience clarity, operational readiness, and missing evidence.
+00:07:05 - Meeting Chair: Final campaign approval remains with the human reviewer.

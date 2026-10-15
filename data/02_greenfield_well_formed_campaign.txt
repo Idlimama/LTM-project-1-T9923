@@ -1,0 +1,22 @@
+SYNTHETIC REVIEW DATA — NOT A REAL COMPANY TRANSCRIPT
+Campaign: Greenfield Learning Renewal Campaign
+
+00:00:04 - Meeting Chair: This meeting reviews the renewal campaign for Greenfield Learning, a professional-skills learning platform.
+00:00:26 - Marketing Lead: The objective is to increase renewal intent among existing annual subscribers whose plans expire in the next ninety days.
+00:00:47 - CRM Lead: The primary audience is active subscribers who completed at least two courses in the previous six months. A secondary group includes subscribers who started a course but did not complete it.
+00:01:18 - Data Analyst: We will not use protected characteristics. Segmentation is based only on subscription status, course activity, consent status, and product usage.
+00:01:41 - Marketing Lead: The offer is an early-renewal price lock for twelve months. The offer is available for thirty days after the first email.
+00:02:02 - Policy Reviewer: The expiry date and eligibility criteria must appear in each message and on the renewal page.
+00:02:24 - Channel Lead: The channel plan uses email, in-product messages, and two optional webinars. No paid social advertising is proposed.
+00:02:48 - Creative Lead: The message is: Continue your learning plan at the current annual price when you renew before the displayed date.
+00:03:05 - Analyst: The message avoids guaranteed career or salary outcomes.
+00:03:32 - Finance Lead: The authorized campaign budget is INR 250000.
+00:03:40 - Finance Lead: The proposed spend is INR 210000. Creative production is INR 65000, email operations are INR 45000, webinar production is INR 40000, analytics is INR 30000, and contingency is INR 30000.
+00:04:13 - Finance Lead: The proposal remains INR 40000 below the authorized budget.
+00:04:24 - Analyst: Success metrics are renewal-page visits, completed renewals, email click-through rate, webinar registrations, unsubscribe rate, and support-contact volume.
+00:04:49 - Operations Lead: The renewal landing page is ready. Eligibility is calculated from the subscription database. Support has prepared a response guide for billing questions.
+00:05:17 - Security Reviewer: The campaign uses existing consented customer records. The export is limited to campaign ID, customer ID, subscription date, consent state, and renewal eligibility.
+00:05:44 - Product Lead: In-product messages stop after renewal. Email reminders stop after renewal or opt-out.
+00:06:03 - Marketing Lead: We will run a ten-percent holdout group for aggregate measurement. The holdout does not affect service availability.
+00:06:28 - Meeting Chair: The council should verify the offer conditions, evidence coverage, budget, audience clarity, readiness, and human approval requirements.
+00:06:50 - Meeting Chair: No campaign is released automatically. A marketing reviewer records the final disposition.

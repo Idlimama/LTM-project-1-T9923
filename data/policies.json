@@ -1,0 +1,8 @@
+[
+ {"id":"SYN-CLAIM-01","title":"Material claim support","source":"Synthetic internal review policy","text":"A material performance claim requires evidence that is suitable for the strength of the claim. A guaranteed result requires strong substantiation."},
+ {"id":"SYN-BUDGET-01","title":"Authorized budget control","source":"Synthetic internal review policy","text":"Proposed campaign spend must remain within the authorized budget unless an explicit exception is recorded."},
+ {"id":"SYN-AUD-01","title":"Audience definition","source":"Synthetic internal review policy","text":"The proposal must define the intended audience sufficiently for channel and message review. Do not infer protected characteristics."},
+ {"id":"SYN-HUMAN-01","title":"Human disposition","source":"Synthetic internal review policy","text":"Automated analysis is decision support only. A human reviewer records the final disposition."},
+ {"id":"SYN-EVID-01","title":"Evidence traceability","source":"Synthetic internal review policy","text":"Important findings must identify the evidence or submitted source that supports the finding."},
+ {"id":"SYN-DISC-01","title":"Disclosure review","source":"Synthetic internal review policy","text":"Offers with material limitations or conditions must identify those conditions clearly for human review."}
+]

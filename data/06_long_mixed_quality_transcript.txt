@@ -1,0 +1,39 @@
+SYNTHETIC REVIEW DATA — NOT A REAL COMPANY TRANSCRIPT
+Campaign: Horizon Cloud Migration Advisory Campaign
+
+00:00:03 - Meeting Chair: This is the consolidated planning discussion for the Horizon Cloud Migration Advisory campaign.
+00:00:28 - Product Lead: Horizon is a consulting offer that assesses application portfolios, identifies migration candidates, and produces a phased modernization roadmap.
+00:00:57 - Marketing Lead: The business objective is to generate qualified discovery sessions with enterprise technology leaders.
+00:01:19 - Sales Lead: The initial target is 120 discovery requests and 40 accepted sales opportunities over twelve weeks.
+00:01:45 - Audience Lead: The primary audience is technology executives, enterprise architects, cloud-platform owners, and application-modernization leaders at organizations with complex legacy estates.
+00:02:13 - Audience Lead: We should not imply that all organizations need the same migration path. Regulated, latency-sensitive, and highly customized systems require differentiated assessment.
+00:02:41 - Channel Lead: The channel mix is LinkedIn, targeted email, executive roundtables, technical webinars, partner content, and a downloadable assessment checklist.
+00:03:05 - Content Lead: The campaign will use three content tracks: executive risk and value, architecture and migration sequencing, and operations and governance.
+00:03:32 - Creative Lead: One draft headline says: Move every application to the cloud in ninety days and reduce infrastructure cost by 60 percent.
+00:03:50 - Solution Architect: That statement is not supportable. Some applications should be retained, retired, replaced, refactored, or moved in stages.
+00:04:16 - Finance Analyst: A 60 percent cost reduction is not supported across the current case set. Reported outcomes vary by architecture, licensing, utilization, and migration scope.
+00:04:43 - Marketing Lead: A safer message is: Build an evidence-based migration roadmap that prioritizes value, risk, and operational readiness.
+00:05:08 - Policy Reviewer: Comparative savings claims must identify the basis, scope, and assumptions. Do not present the maximum observed reduction as a normal outcome.
+00:05:34 - Sales Lead: The internal opportunity model assumes 40 accepted opportunities with an average potential contract value of INR 6000000.
+00:05:51 - Finance Analyst: That is pipeline potential. Conservative attributable revenue must apply probability, timing, delivery capacity, and attribution assumptions.
+00:06:17 - Finance Lead: The authorized campaign budget is INR 2200000.
+00:06:27 - Finance Lead: The proposed spend is INR 2050000. Content development is INR 500000, executive roundtables are INR 600000, webinars are INR 250000, paid media is INR 400000, analytics is INR 100000, and contingency is INR 200000.
+00:06:56 - Finance Lead: The proposal is INR 150000 below the authorized budget.
+00:07:13 - Operations Lead: The assessment checklist is ready. The webinar platform and registration site are ready. Two executive roundtable locations are tentative.
+00:07:39 - Legal Reviewer: The campaign must not use confidential client names or results without authorization. Current case examples are anonymized.
+00:08:06 - Data Analyst: Historical campaign aggregates contain channel, response, industry, opportunity-stage, and cost data. They do not contain employee-level performance information.
+00:08:32 - Security Reviewer: Uploaded meeting evidence remains on the local server. The browser should receive only evaluation state and displayed results.
+00:08:56 - AI Lead: Transcript text and retrieved policies are untrusted evidence. Embedded instructions must not alter system roles or call tools.
+00:09:21 - AI Lead: Specialist outputs must validate against typed schemas. Malformed structured output gets one retry. Continued failure must be visible.
+00:09:48 - Meeting Chair: The first specialist round includes Growth, Audit, Finance, and Audience roles.
+00:10:05 - Meeting Chair: The bounded council stage may preserve, qualify, or challenge findings, but it cannot negotiate away hard gates.
+00:10:27 - Growth Reviewer: The revised objective is measurable, but the campaign needs a clear definition of a qualified discovery session.
+00:10:45 - Sales Lead: A qualified discovery session requires a named organization, an identified business or technology problem, a relevant decision-maker, and agreement to a follow-up assessment.
+00:11:16 - Audience Reviewer: The technical webinar content could overwhelm executives. The executive stream should begin with decision criteria and risk, with architecture detail available separately.
+00:11:43 - Content Lead: We will create separate landing-page routes for executive and technical audiences while preserving one campaign identity.
+00:12:08 - Policy Reviewer: The ninety-day and 60 percent claims must be removed unless a specific, evidenced context is stated.
+00:12:33 - Marketing Lead: The approved working message is: Prioritize migration decisions with an evidence-based roadmap for value, risk, architecture, and operational readiness.
+00:12:59 - Analyst: Success metrics are qualified discovery requests, accepted opportunities, cost per qualified request, event attendance, checklist downloads, landing-page conversion, and unsubscribe rate.
+00:13:26 - Operations Lead: Follow-up ownership is assigned to regional sales operations. Response service level is two business days.
+00:13:52 - Meeting Chair: The council should return revision required if the unsupported headline remains in the evaluated proposal, even though the budget is within limits.
+00:14:17 - Meeting Chair: The final human reviewer can approve the revised message for the next stage after evidence and readiness checks.
