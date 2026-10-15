@@ -1,7 +1,60 @@
-fastapi
-uvicorn[standard]
-python-multipart
-pydantic>=2
-ollama
-pytest
-langgraph>=1.0
+# Multi-Agent Marketing Campaign Governance Engine
+# Python dependencies for the FastAPI backend, LangGraph workflow,
+# local Ollama integration, retrieval, persistence, reporting, and tests.
+#
+# Supported Python: 3.11+
+# Install: python -m pip install -r requirements.txt
+#
+# Ollama itself and qwen2.5:3b are system prerequisites, not pip packages:
+#   ollama pull qwen2.5:3b
+#
+# The React/TypeScript frontend dependencies belong in frontend/package.json.
+
+# API and configuration
+fastapi>=0.143,<1.0
+uvicorn[standard]>=0.38,<1.0
+pydantic>=2.12,<3.0
+pydantic-settings>=2.11,<3.0
+python-multipart>=0.0.20,<1.0
+httpx>=0.28,<1.0
+sse-starlette>=3.0,<4.0
+aiofiles>=24.1,<25.0
+orjson>=3.10,<4.0
+
+# Database, migrations, and durable local workflow state
+SQLAlchemy>=2.0,<3.0
+alembic>=1.17,<2.0
+aiosqlite>=0.21,<1.0
+
+# Agent orchestration and local model provider
+langgraph>=1.2,<2.0
+langgraph-checkpoint-sqlite>=3.1,<4.0
+ollama>=0.6.3,<1.0
+tenacity>=9.1,<10.0
+
+# Document ingestion
+pypdf>=6.1,<7.0
+
+# Retrieval and evidence ranking
+rank-bm25>=0.2.2,<1.0
+numpy>=2.1,<3.0
+rapidfuzz>=3.10,<4.0
+
+# Reports and safe text rendering
+reportlab>=4.4,<5.0
+Markdown>=3.8,<4.0
+bleach>=6.2,<7.0
+
+# Structured logging
+structlog>=25.4,<26.0
+
+# Testing and quality gates
+pytest>=8.3,<10.0
+pytest-asyncio>=1.2,<2.0
+pytest-cov>=7.0,<8.0
+respx>=0.22,<1.0
+hypothesis>=6.140,<7.0
+ruff>=0.14,<1.0
+mypy>=1.18,<2.0
+bandit>=1.8,<2.0
+pip-audit>=2.9,<3.0
