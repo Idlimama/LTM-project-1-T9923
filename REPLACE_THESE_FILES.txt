@@ -1,0 +1,22 @@
+REPLACE THESE FILES IN THE marketing-governance FOLDER
+
+1. backend\providers\ollama_provider.py
+2. backend\orchestration\graph.py
+3. backend\services\evaluator.py
+4. index.html
+
+Do not delete any other project files.
+
+After replacement, run from the project root:
+
+.\.venv\Scripts\python.exe -m py_compile backend\providers\ollama_provider.py backend\orchestration\graph.py backend\services\evaluator.py
+.\.venv\Scripts\python.exe -m pytest -q
+.\.venv\Scripts\python.exe -m uvicorn backend.main:app --host 127.0.0.1 --port 8000
+
+Then press Ctrl+F5 in the browser.
+
+This hotfix limits the live path to at most two Ollama calls:
+- structured campaign extraction
+- one combined four-specialist council call
+
+The second council synthesis is deterministic so that hard gates remain stable and the live review does not spend several additional minutes on reflection calls.
